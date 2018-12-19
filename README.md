@@ -16,6 +16,19 @@
 ## Πρώτο Ζητούμενο
 Για την αλλαγή των χρωμάτων στα 3 διαγράμματα έκανα αλλαγή στα https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_1.js για το πρώτο διάγραμμα, https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_2.js για το δέυτερο διάγραμμα και https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_3.js για το τρίτο διάγραμμα.
 
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-14.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-15.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-16.png
+
+# Αρχικά
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-5.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-6.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-4.png
+
+# Τελικά
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-1.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-2.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-3.png
 
 ## Δέυτερο Ζητούμενο
 Για την αντικατάσταση των διεπαφών στα κουμπιά του 2ου και 3ου γραφήματος έκανα αλλαγή στο https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/stylesheets/style.css
@@ -24,6 +37,7 @@
 ## Τρίτο Ζητούμενο
 Για να διέρχεται το ποντίκι επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας πρόσθεσα κάποιον ήχο της επιλογής μου https://github.com/p17kara/D3js-US-educational-attainment/blob/master/Mouse%20Click%20Sound-23037-Free-Loops.com.mp3 και https://github.com/p17kara/D3js-US-educational-attainment/blob/master/Computer_mouse_single_click.ogg καθώς και https://github.com/p17kara/D3js-US-educational-attainment/blob/master/sound-menu-mouseover.js. Επίσης, πρόσθεσα στο https://github.com/p17kara/D3js-US-educational-attainment/blob/master/index.html κάποιες εντολές.
 
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-17.png
 
 ## Τέταρτο Ζητούμενο
 Για να διέρχεται το ποντίκι πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος) χρησιμοποίησα την αυτόματη αφήγηση του κειμένου (text-to-speech) το responsive voice και έπειτα έκανα κάποιες προσθήκες στο https://github.com/p17kara/D3js-US-educational-attainment/blob/master/index.html.
@@ -37,12 +51,18 @@
 ## Πρώτο Ζητούμενο
 Για να εμφανίζεται μόνο ένα γράφημα, πρόσθεσα στο https://github.com/p17kara/D3js-US-educational-attainment/blob/master/index.html κάποιες εντολές.
 
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-8.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-7.png
 
 ## Δέυτερο Ζητούμενο
 Δεν μπόρεσα να το υλοποιήσω
 
 ## Τρίτο Ζητούμενο
 Για το ζητούμενο αυτό πρόσθεσα στα scripts τα https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_4.js, https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_5.js και https://github.com/p17kara/D3js-US-educational-attainment/blob/master/assets/scripts/script_6.js καθώς δημιούργησα το https://github.com/p17kara/D3js-US-educational-attainment/blob/master/index2.html για τα γραφήματα αλλά μόνο το πρώτο διάγραμμα εμφανίζεται.
+
+https://github.com/p17kara/HCI-Final-Report/blob/master/graph.gif
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-10.png
+https://github.com/p17kara/HCI-Final-Report/blob/master/Screenshot-11.png
 
 
 # Συμπεράσματα
